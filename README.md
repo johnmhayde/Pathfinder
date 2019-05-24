@@ -1,6 +1,6 @@
 # Pathfinder
 
-This is a pathfinding program I wrote for class. It is an A* implementation written in C++. I chose not to implement the f = g + h cost, and only focused the program on the heuristic because that fit my needs for what the program was being used for.  
+This is an A* implementation written to help with a pathfinding program. I chose not to implement the f = g + h cost, and only focused on the heuristic because that fit my needs for what the program was being used for.  
 
 ## Running the Program
 Make sure the package directory is setup properly. Then, run the program through these commands:
